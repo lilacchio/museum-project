@@ -1,10 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9466323&assignment_repo_type=AssignmentRepo)
 # Museum-Project ENSF 300
 
-## TASK DISTRIBUTION
-- MD Sakil Al Mahmud (Set up Queries.SQL to add all the query and triggers, worked on code files and developed the standalone python program)
-- MD Touhidul Hassan Tonmoy (Finished the main museum.sql file with all the population entries and added queries to queries.sql)
-- Saim Shahzad (Drawn Relational Schema and ArtsMuseumEERD, transformed relational schema to museum.sql and added queries to queries.sql)
+## TASK
+Creating a Database Management System with Python, which allows user to access with different roles and find the relevant museum data. It was our final project in ENSF300 course.
 
 ## INSTALLATION
 - Import data from Museum.SQL to the mySQL schema.
